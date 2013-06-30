@@ -1,0 +1,9 @@
+[info] Packaging E:\codes\Scala\funsets\target\scala-2.10\progfun-funsets_2.10-1.0.0.jar ...
+[debug] Input file mappings:
+[debug] 	common\package.scala
+[debug] 	  E:\codes\Scala\funsets\src\main\scala\common\package.scala
+[debug] 	funsets\FunSets.scala
+[debug] 	  E:\codes\Scala\funsets\src\main\scala\funsets\FunSets.scala
+[debug] 	funsets\Main.scala
+[debug] 	  E:\codes\Scala\funsets\src\main\scala\funsets\Main.scala
+[info] Done packaging.

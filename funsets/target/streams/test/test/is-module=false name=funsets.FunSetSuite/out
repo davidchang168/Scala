@@ -1,0 +1,6 @@
+[info] FunSetSuite:
+[info] - string take
+[info] - adding ints
+[info] - contains is implemented
+[info] - singletonSet(1) contains 1
+[info] - union contains all elements

@@ -1,0 +1,4 @@
+[debug] Running Test funsets.FunSetSuite : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 5, Failed 0, Errors 0, Passed 5, Skipped 0
+[debug] Passed tests:
+[debug] 	funsets.FunSetSuite
